@@ -25,4 +25,4 @@ kalkulator/
 ```
 
 ## 👤 Autori
-Emri Mbiemri - Detyre Kursi 2024-2025
+Eden Cerova
